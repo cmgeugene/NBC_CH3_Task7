@@ -1,5 +1,7 @@
 ## 내일배움캠프 Unreal 트랙 7번 과제
 
+시연 영상 URL : https://youtu.be/HI1XVrr0FqY
+
 ### 필수 기능
 + Pawn 클래스 생성 `(TaskNo7.cpp, BP_TaskNo7Character)`
   + Capsule Component(루트)에 Spring Arm Component, Camera Component, Skeletal Mesh Component 부착
